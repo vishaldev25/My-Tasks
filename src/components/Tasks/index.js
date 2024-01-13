@@ -3,6 +3,8 @@ import {v4} from 'uuid'
 import Tags from '../Tags'
 import TasksCard from '../TasksCard'
 
+import './index.css'
+
 const tagsList = [
   {
     optionId: 'HEALTH',
